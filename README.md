@@ -67,7 +67,7 @@ npm start
 
 ---
 
-## FAQ
+### FAQ
 
 ### Q: How can i get started?
 
